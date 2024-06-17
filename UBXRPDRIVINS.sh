@@ -8,6 +8,9 @@ PASSWORD="P789456123s"
 # Update the package list
 sudo apt update
 
+# Upgrade system
+sudo apt upgrade -y
+
 # Install GNOME Desktop
 sudo apt install -y ubuntu-desktop
 

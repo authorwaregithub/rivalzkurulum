@@ -28,6 +28,6 @@ Ubuntu Sunucuya Ubuntu Desktop ve Rivalz Node Kurulumu
 
 (14) Ubuntu Masaüstü ortamında gerekli kurumları yapınız. Kurulum tamalandıktan sonra ekranın sol üst kısmındaki "Activities" kısmına ardından alt kısımda ortaya çıkacak olan "Files" klasörüne tıklayın.
 
-(15) Çıkan ekrandan "Documents" klasörüne girin. Son olarak "rClient-latest.AppImage" dosyasına sağ tıklayan "Run" yapın.
+(15) Çıkan ekrandan "Documents" klasörüne girin. Son olarak "rClient-latest.AppImage" dosyasına sağ tıklayarak "Run" yapın.
 
 (16) Rivalz Client açıldıktan sonra gerekli ayarlamaları yapıp node'u çalıştırın.

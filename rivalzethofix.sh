@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Turkish Translator by Authorware
+# Turkish Translator by nudezilla
 
 SERVICE_FILE="/etc/systemd/system/eth0-config.service"
 
